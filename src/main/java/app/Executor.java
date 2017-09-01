@@ -43,7 +43,7 @@ public class Executor {
     {
       mediaSaldo = new BigDecimal(somaSaldo/qtdeCustomers);  
     }
-    System.out.println("MÃ©dia de saldo de clientes id entre 1500 e 2700 e saldo maior que 560: " + mediaSaldo.setScale(2, BigDecimal.ROUND_HALF_UP));
+    System.out.println("Média de saldo de clientes id entre 1500 e 2700 e saldo maior que 560: " + mediaSaldo.setScale(2, BigDecimal.ROUND_HALF_UP));
     System.out.println("Lista de clientes contabilizados ordenados pelo saldo decrescente: ");
     for (CustomerAccount c : clientesUtilizados)
     {
