@@ -1,0 +1,50 @@
+[
+  {
+    "_class": "app.entity.CustomerAccount",
+    "id": "1501",
+    "cpf_cnpj": "32732852066",
+    "nome": "Cléber",
+    "ativo": "true",
+    "saldo": "1582.0"
+  },
+  {
+    "_class": "app.entity.CustomerAccount",
+    "id": "1502",
+    "cpf_cnpj": "12843637910",
+    "nome": "Arnaldo",
+    "ativo": "true",
+    "saldo": "1275.0"
+  },
+  {
+    "_class": "app.entity.CustomerAccount",
+    "id": "1503",
+    "cpf_cnpj": "52022173155",
+    "nome": "Cesar",
+    "ativo": "false",
+    "saldo": "1878.0"
+  },
+  {
+    "_class": "app.entity.CustomerAccount",
+    "id": "1808",
+    "cpf_cnpj": "78216579640",
+    "nome": "Coelho",
+    "ativo": "true",
+    "saldo": "552.0"
+  },
+  {
+    "_class": "app.entity.CustomerAccount",
+    "id": "2700",
+    "cpf_cnpj": "85128842150",
+    "nome": "Botelho",
+    "ativo": "true",
+    "saldo": "1500.8"
+  },
+  {
+    "_class": "app.entity.CustomerAccount",
+    "id": "2777",
+    "cpf_cnpj": "87179412538",
+    "nome": "Amélia",
+    "ativo": "true",
+    "saldo": "1587.2"
+  }
+]
